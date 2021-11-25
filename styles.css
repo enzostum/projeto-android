@@ -137,7 +137,7 @@ img {
 }
 
 .video {
-    padding: 10px;
+    padding: 20px;
     background-color: var(--cor-5);
     padding-bottom: 50%;
     position: relative;
@@ -148,7 +148,7 @@ img {
     position: absolute;
     top: 5%;
     left: 5%;
-    width: 50%;
+    width: 90%;
     height: 90%;
 }
 #lista > h1 {
