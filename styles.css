@@ -136,9 +136,20 @@ img {
     margin: auto;
 }
 
-#video {
+.video {
     padding: 10px;
     background-color: var(--cor-5);
+    padding-bottom: 50%;
+    position: relative;
+    margin: 0px -20px 30px -20px;
+}
+
+.video > iframe { 
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 50%;
+    height: 90%;
 }
 #lista > h1 {
     background-color: var(--cor-4);
